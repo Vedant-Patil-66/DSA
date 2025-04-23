@@ -37,6 +37,7 @@ class FirstAndLastOccurence {
         return new int[]{first,last};
     }
 
+    // main method
     public static void main(String[] args) {
         int[] nums1 = new int[]{5,7,7,8,8,10}; // output == [3,4]
         int target1 = 8;
