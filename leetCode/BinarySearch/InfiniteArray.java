@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class InfiniteArray {
 
     public int binarySearchForInfiteArrayWithFixedWindow(int[] arr, int target){
