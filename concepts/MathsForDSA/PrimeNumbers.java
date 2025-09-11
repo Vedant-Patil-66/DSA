@@ -27,7 +27,7 @@ public class PrimeNumbers {
             arr[i] = true;
         }
         
-        int i=2;
+        int i=2; 
         while (i < num) {
             if(arr[i-1] == true){
                 int j=i*2;
