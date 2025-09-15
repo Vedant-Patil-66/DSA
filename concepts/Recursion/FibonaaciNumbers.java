@@ -21,5 +21,6 @@ public class FibonaaciNumbers{
         int result = fib(num);
         
         System.out.println("Result " + result);
+        sc.close();
     }
 }

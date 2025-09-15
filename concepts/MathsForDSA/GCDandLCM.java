@@ -23,5 +23,6 @@ public class GCDandLCM {
         int num2 = sc.nextInt();
         System.out.println("GCD of "+num1+" & "+num2+" is " +getGCD(num1, num2));
         System.out.println("LCM of "+num1+" & "+num2+" is " +getLCM(num1, num2));
+        sc.close();
     }
 }

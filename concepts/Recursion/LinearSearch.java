@@ -19,7 +19,7 @@ public class LinearSearch {
 
     public static void main(String[] args){
         int[] arr = new int[]{10,40,20,30,40,40,50};
-        ArrayList ans = linearSearch(arr, 0, 40);
+        ArrayList<Integer> ans = linearSearch(arr, 0, 40);
         System.out.println(ans);
     }
 }

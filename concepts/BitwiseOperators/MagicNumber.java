@@ -29,5 +29,6 @@ public class MagicNumber {
         System.out.print("Enter Number: ");
         int num = sc.nextInt();
         System.out.println(findMagicNumber(num));
+        sc.close();
     }
 }

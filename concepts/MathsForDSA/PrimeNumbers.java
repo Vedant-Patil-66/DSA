@@ -63,5 +63,6 @@ public class PrimeNumbers {
         }
 
         System.out.println(AllPrimeTillNum(num));
+        sc.close();
     }
 }

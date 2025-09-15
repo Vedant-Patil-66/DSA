@@ -24,5 +24,6 @@ public class Power {
         System.out.print("Enter Number2: ");
         int num2 = sc.nextInt();
         System.out.println(findApowerB(num1,num2));
+        sc.close();
     }
 }
