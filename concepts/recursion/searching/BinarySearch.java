@@ -1,4 +1,4 @@
-package concepts.Recursion;
+package concepts.recursion.searching;
 
 public class BinarySearch {
     private static int search(int[]arr, int l, int h, int target){
