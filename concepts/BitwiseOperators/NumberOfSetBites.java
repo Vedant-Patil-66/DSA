@@ -21,5 +21,6 @@ public class NumberOfSetBites {
         int num = sc.nextInt();
         System.out.println(numberOfSetBites(num));
         System.out.println(Integer.toBinaryString(num));
+        sc.close();
     }
 }

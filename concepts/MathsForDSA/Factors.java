@@ -29,5 +29,6 @@ public class Factors {
         System.out.print("Enter Number: ");
         int num = sc.nextInt();
         System.out.println(getFactors(num));
+        sc.close();
     }
 }
